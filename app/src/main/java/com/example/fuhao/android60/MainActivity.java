@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
             if (size == 0) {
                 return;
             }
+
             System.out.println("权限 list size = " + size);
             final String[] str = list1.toArray(new String[0]);
             System.out.println("权限 str length = " + str.length);
