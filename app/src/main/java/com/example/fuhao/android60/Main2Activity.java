@@ -28,6 +28,7 @@ public class Main2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
         Button btn2 = (Button) findViewById(R.id.btn2);
 
+
         //不知道是干啥的啊
         //判断有没有相机权限
         Main2ActivityPermissionsDispatcher.getpermissionWithCheck(this);
