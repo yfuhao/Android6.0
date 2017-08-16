@@ -32,6 +32,7 @@ public class Main2Activity extends AppCompatActivity {
 
 
 
+
         //不知道是干啥的啊
         //判断有没有相机权限
         Main2ActivityPermissionsDispatcher.getpermissionWithCheck(this);
